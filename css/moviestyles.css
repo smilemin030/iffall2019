@@ -1,0 +1,22 @@
+header {
+	font-family: 'Manjari', sans-serif;
+	font-size: 30pt;
+	color:rgb(245,187,99);
+}
+body {
+	width:55%;
+	max-width: 800px;
+	text-align:center;
+	font-family: 'Patrick Hand', cursive;
+	margin-left:20%;
+	background-color:rgb(32,34,87);
+
+
+}
+hr {
+	color:rgb(255,253,143)
+}
+.intro-paragraph {
+	color:rgb(255,253,143);
+
+}
