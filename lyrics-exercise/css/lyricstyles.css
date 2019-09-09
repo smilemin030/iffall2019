@@ -1,0 +1,24 @@
+header {
+	background-color: rgb(255,146,24);
+	font-family: 'Amatic SC', cursive;
+	font-size: 30pt;
+	color:black;
+	font-style: bold;
+}
+body {
+	width:55%;
+	max-width: 800px;
+	text-align:left;
+	letter-spacing: double;
+	margin-left:20%;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 17pt;
+
+	background-color:rgb(245,187,99);
+
+}
+
+.intro-paragraph {
+	color:rgb(255,253,143);
+
+}
