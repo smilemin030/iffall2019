@@ -1,55 +1,80 @@
-header{
-	margin-bottom: 3rem;
+body{
+	font-family: 'Archivo Narrow', sans-serif;
 }
-p{
-	line-height: 1.6
+header {
+	background-color: rgba(28, 43, 74,0.5);
+	color: white;
+	text-align: center;
+	padding: 150px 0 183px 0;
+	background-image: url('../images/me.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
 }
-.see-all{
-	text-transform: uppercase;
-	font-size: 0.8em;
+p {
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: -0.013em;
+	line-height: 1.4;
+}
 
+h1 {
+	margin: 0 0 0 0;
+	font-size: 80px;
 }
-h1{
-	font-size:2.5rem;
-	
-}
+
 h2{
-	text-transform: uppercase;
-	font-size: 1rem;
-}
-h1,h2{
-	font-weight: 200;
-}
-img{
-	width: 100%;
-}
-section.cast li{
-	width:25%;
+	font-size: 30px;
+	margin: 0;
+
 }
 
-ul.shows>li{ border-top: 1px solid skyblue;
+h3 { 
+	margin: 0 0 43px 0;
+	text-align: center;
+	font-size: 40px;
+
+
+	 }
+
+section > div {
+	width: 960px;
+	margin: auto;
+	padding: 55px 0 0 0;
+	line-height: 25px;
+	text-align: left;
+
+
+
 }
 
-li.selected >a{
-	color:black;
-	font-weight: bold;
-}
-.cast li div:first-of-type{
-	font-size: 0.8em;
-	font-weight:bold;
-}
-.cast div:nth-of-type(2){
-	font-size: 0.8em;
-	font-style:italic;
-}
-section.seasons li:last-of-type:after{
-	content: "*";"
-}
-section.seasons li:last-of-type:after{
-	content: "*";}
+section.section_one {
+	background-color: rgba(27, 57, 112,0.9);
+	padding: 0px 0 45px 0;
+	color: white;
 
-.seasons:after{
-	content:"* Final Season";
-	color:#999;
-	font-size: 0.7rem;
+
 }
+
+
+.section_one img {
+	float: right;
+	width: 400px;
+	height: 300px;
+	margin-left: 36px;
+	margin-bottom: 22px;
+}
+
+section.section_two {
+	background-color: rgba(58, 103, 186,0.9);
+	padding: 0px 0 295px 0;
+	color: white;
+}
+
+section.section_three {
+	background-color: rgba(98, 148, 240,0.9);
+	padding: 0px 0 185px 0;
+	color: white;
+}
+
+
+
