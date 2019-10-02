@@ -97,7 +97,7 @@ section.section_one {
 }
 
 section.section_two {
-	background-color: rgba(58, 103, 186,0.9);
+	background-color: rgba(58, 103, 186,1);
 	padding: 0px 0 50px 0;
 	color: white;
 }
@@ -107,7 +107,7 @@ section.section_two > div{
 }
 
 section.section_three {
-	background-color: rgba(98, 148, 240,0.9);
+	background-color: rgba(98, 148, 240,1);
 	padding: 0px 0 100px 0;
 	
 	color: white;
@@ -133,5 +133,5 @@ footer{
 	font-size: 15px;
 	margin: 38px 0 0 165px;
 	color:rgb(196, 218, 255);
-	background-color: rgba(255, 255, 255, 0.9);
+	background-color: rgba(255, 255, 255, 1);
 }
