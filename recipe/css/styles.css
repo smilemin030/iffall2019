@@ -8,6 +8,7 @@ html{
 
 body{
 	margin:0 0 0 0 ;
+	background-color: #FFFEF6/*F9F6FF*/;
 	display: inline-block;
 	box-sizing: border-box;
 	/*width:auto;*/
