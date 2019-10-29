@@ -246,7 +246,7 @@ h3{
 	font-family: 'futura', sans-serif;
 	font-size:14px;
 	letter-spacing: 1.03px;
-	line-height: 2.3;
+	line-height: 2.1;
 	color:#6C4305;
 	margin-bottom: 10px;
 }
@@ -262,11 +262,9 @@ h3{
 	line-height: 1.8;
 	letter-spacing: 1.03px;
 	font-size:14px;
+	margin-top: 15px;
 }
 
-li{
-	margin-top: 13px;
-}
 
 footer{
 	left:74px;
