@@ -1,0 +1,44 @@
+header{
+	padding-top:100px;
+	padding-bottom: 15px;
+	font-size: 40px;
+	font-weight: bold;
+	color:purple;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+	margin:auto;
+	background-color: #F2E3FF;
+	position:center;
+	padding-left: 18rem;
+}
+h1{
+	font-size: 34px;
+	padding-bottom: -10px;
+
+	color:#7E2BBB;
+
+}
+.version{
+	padding-bottom: 5px;
+	font-size: 25px;
+	font-style: italic;
+	color:#4724A5;
+
+}
+div{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	color:#9A3DB6;
+	font-size:15px;
+
+}
+.coco-d{
+	width:35%;
+	display: inline-block;
+
+}
+.coco-m{
+	width:20%;
+	display: inline-block;
+}
