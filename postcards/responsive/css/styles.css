@@ -43,7 +43,21 @@ body{
 	position:absolute;
 	bottom:10px;
 	left:5px;
-	padding:10%;
+	padding:5%;
+}
+.container1{
+	color:white;
+	position:absolute;
+	bottom:0px;
+	right:10px;
+	padding:5%;
+}
+.container2{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	left:5px;
+	padding:5%;
 }
 .quote{
 	font-size:40px;
@@ -87,9 +101,21 @@ body{
 .quote-container{
 	color:white;
 	position:absolute;
-	bottom:10px;
+	top:6%;
 	/*top:3%;*/
 	/*left:10px;*/
+	padding:5%;
+}
+.container1{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	padding:5%;
+}
+.container2{
+	color:white;
+	position:absolute;
+	bottom:10px;
 	padding:5%;
 }
 .quote{
@@ -132,17 +158,31 @@ body{
 .quote-container{
 	color:white;
 	position:absolute;
-	top:3%;
+	top:6%;
+	right:20px;
+	padding:3%;
+}
+.container1{
+	color:white;
+	position:absolute;
+	bottom:10px;
 	right:20px;
 	padding:5%;
 }
+.container2{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	right:20px;
+	padding:4%;
+}
 .quote{
-	font-size:28px;
+	font-size:24px;
 	font-family: 'Fredericka the Great', cursive;
 
 }
 .attribution{
-	font-size: 18px;
+	font-size: 16px;
 	font-family: 'Unkempt', cursive;
 }
 }
