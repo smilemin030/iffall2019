@@ -1,0 +1,199 @@
+/*body{
+	background-image:url(../images/coco1.jpg);
+	background-size:cover;
+	background-position:58%; /*right top center center*/
+	/*margin:0;
+	}*/
+a{
+	position:absolute;
+			top:0;
+			left:0;
+			right:0;
+			bottom:0;
+}
+@media ( min-width:700px){
+.card1 {
+background-image:url(../images/coco1.jpg);
+	background-size:cover;
+	background-position:58% ; /*right top center center*/
+	margin:0;
+}
+
+.card2 {
+	background-image:url(../images/coco2.jpg);
+	background-size:cover;
+	background-position:35% ; /*right top center center*/
+	margin:0;
+
+}
+.card3 {
+	background-image:url(../images/coco3.jpg);
+	background-size:cover;
+	background-position:46%; /*right top center center*/
+	margin:0;
+}
+
+
+html,
+body{
+	height:100%;
+}
+.quote-container{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	left:5px;
+	padding:5%;
+}
+.container1{
+	color:white;
+	position:absolute;
+	bottom:0px;
+	right:10px;
+	padding:5%;
+}
+.container2{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	left:5px;
+	padding:5%;
+}
+.quote{
+	font-size:40px;
+	font-family: 'Fredericka the Great', cursive;
+
+}
+.attribution{
+	font-size: 21px;
+	font-family: 'Unkempt', cursive;
+}
+}
+
+
+@media ( max-width: 700px){
+.card1 {
+background-image:url(../images/coco1.jpg);
+	background-size:cover;
+	background-position:58% top; /*right top center center*/
+	margin:0;
+}
+
+.card2 {
+	background-image:url(../images/coco2.jpg);
+	background-size:cover;
+	background-position:35% top; /*right top center center*/
+	margin:0;
+
+}
+.card3 {
+	background-image:url(../images/coco3.jpg);
+	background-size:cover;
+	background-position:46% top; /*right top center center*/
+	margin:0;
+}
+
+
+html,
+body{
+	height:100%;
+}
+.quote-container{
+	color:white;
+	position:absolute;
+	top:6%;
+	/*top:3%;*/
+	/*left:10px;*/
+	padding:5%;
+}
+.container1{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	padding:5%;
+}
+.container2{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	padding:5%;
+}
+.quote{
+	font-size:35px;
+	font-family: 'Fredericka the Great', cursive;
+
+}
+.attribution{
+	font-size: 20px;
+	font-family: 'Unkempt', cursive;
+}
+}
+
+@media ( max-width: 530px){
+
+.card1 {
+	background-image:url(../images/coco1.jpg);
+	background-size:cover;
+	background-position:58% top; 
+	margin:0;
+}
+.card2 {
+	background-image:url(../images/coco2.jpg);
+	background-size:cover;
+	background-position:35% top; /*right top center center*/
+	margin:0;
+
+}
+.card3 {
+	background-image:url(../images/coco3.jpg);
+	background-size:cover;
+	background-position:46% top; /*right top center center*/
+	margin:0;
+}
+
+html,
+body{
+	height:100%;
+}
+.quote-container{
+	color:white;
+	position:absolute;
+	top:6%;
+	right:20px;
+	padding:3%;
+}
+.container1{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	right:20px;
+	padding:5%;
+}
+.container2{
+	color:white;
+	position:absolute;
+	bottom:10px;
+	right:20px;
+	padding:4%;
+}
+.quote{
+	font-size:24px;
+	font-family: 'Fredericka the Great', cursive;
+
+}
+.attribution{
+	font-size: 16px;
+	font-family: 'Unkempt', cursive;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
