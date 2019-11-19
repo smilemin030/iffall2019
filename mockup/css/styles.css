@@ -1,0 +1,40 @@
+header{
+	padding-top:100px;
+	padding-bottom: 15px;
+	font-size: 40px;
+	font-weight: bold;
+	color:#133313;
+}
+body{
+	font-family: 'Alata', sans-serif;
+	margin:auto;
+	background-color: #EBFFEB;
+	position:center;
+	padding-left: 18rem;
+}
+h1{
+	font-size: 34px;
+	padding-bottom: -10px;
+
+	color:#3A6E3A;
+
+}
+.version{
+	padding-bottom: 5px;
+	font-size: 25px;
+	font-style: italic;
+	color:#118511;
+
+}
+div{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	color:#05A305;
+	font-size:15px;
+
+}
+.micro{
+	width:35%;
+	display: inline-block;
+
+}
